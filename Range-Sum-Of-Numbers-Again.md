@@ -1,4 +1,4 @@
-![image](https://github.com/mohith789p/BeingZero/blob/main/images/Even-Division.png)
+![image](https://github.com/mohith789p/BeingZero/blob/main/images/Range-Sum-Of-Numbers-Again.png)
 
 # Program
 ```java
