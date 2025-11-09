@@ -1,4 +1,4 @@
-![https://github.com/mohith789p/BeingZero/new/main/images/Even-Division]
+![https://github.com/mohith789p/BeingZero/blob/main/images/Even%20Division]
 
 ```java
 import java.util.*;
