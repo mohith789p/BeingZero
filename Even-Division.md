@@ -1,4 +1,4 @@
-![image](https://github.com/mohith789p/BeingZero/blob/main/images/Even-Division)
+![image](https://github.com/mohith789p/BeingZero/blob/main/images/Even-Division.png)
 
 # Program
 ```java
